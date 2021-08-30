@@ -3,9 +3,9 @@ To be able to open the jupyter notebook get copy of its link "https://github.com
 and paste it here "https://nbviewer.jupyter.org/"
 
 ### The content of the project:
-1. Read an image using opencv
-  a. Convert image from BGR to RGB without opencv
-  b. Convert image from BGR to graysacle without opencv
+1. Read an image using opencv <br>
+  a. Convert image from BGR to RGB without opencv<br>
+  b. Convert image from BGR to graysacle without opencv<br>
 2. Convert from RGB to BGR
 3. Convert from RGB to grayscale
 4. Convert from BGR to grayscale
